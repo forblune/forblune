@@ -29,7 +29,7 @@ I enjoy building projects that solve real-world problems and applying technology
 Python · YOLOv5/v8 · OpenCV · Roboflow · Google Colab · Data Labeling
 
 ### Web Development
-HTML · CSS · JavaScript · React · Supabase · Kakao Login
+HTML · CSS · JavaScript · React · Supabase · Kakao
 
 ### Hardware & Embedded
 Raspberry Pi · Arduino · FPV Drones (Assembly, Soldering, PID Tuning) · 3D Printing
