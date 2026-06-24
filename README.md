@@ -1,25 +1,38 @@
 # 👋 Hi, I'm Geonhee Kim
 
-Air Transportation & Logistics student interested in AI, Computer Vision, FPV Drones, and Future Space Logistics.
+Air Transportation & Logistics student building projects at the intersection of AI, computer vision, FPV drones, healthcare, and future space logistics.
 
-I enjoy building projects that solve real-world problems and applying technology to aviation, logistics, and emerging industries. From planning and research to development and operation, I like experiencing the entire process of creating and improving a project.
+From planning and research to development and operation, I enjoy experiencing the entire process of creating and improving a project.
 
-- 🔭 Currently: Developing MindHub, an AI-powered mental healthcare platform, and working on web & AI projects
+- 🔭 Currently: Building **MindHub** — an AI-assisted mental health **record & pre-visit summary** platform (patient app + psychiatry EMR)
 - 🌱 Learning: React · Supabase · On-device AI (Raspberry Pi / Jetson)
 - 🛸 Background: Built and tuned FPV racing drones since elementary school, including soldering, assembly, and PID tuning
 - 📝 Blog: https://blog.naver.com/forblueblog
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### [MindHub](https://github.com/forblune/mindhub-mvp) · [Live Demo](https://mindhub.forblune.com)
+AI-assisted mental health **record & pre-visit summary** platform.
+Patients chat naturally outside the clinic; MindHub organizes sleep · mood · medication · stressor signals and, within the patient's chosen sharing scope, delivers a pre-visit summary to the doctor. A **record / summary / relay** tool that supports clinical judgment — not diagnosis or treatment. (demo / virtual-patient data)
+`HTML · JS · Supabase (Auth/RLS) · Render AI proxy`
+
+### [MindHub Psych EMR](https://github.com/forblune/mindhub-psych-emr) · [Live Demo](https://forblune.github.io/mindhub-psych-emr/)
+React-based psychiatry EMR prototype connected to MindHub clinical summaries.
+Appointments · ward · billing · medication inventory · clinical notes · scales, with role-based Supabase RLS. (virtual-data prototype)
+`React · Vite · Supabase`
+
+---
+
+## 🧪 Selected Past Projects
 
 | Project | Description | Stack |
 |----------|-------------|--------|
-| RePET Vision | PET bottle classification project for recycling efficiency improvement (Gangwon AI Idea Competition, Team Leader) | YOLOv8n · Roboflow · mAP@0.5 91% |
-| K2J – Smoking Detection | Computer vision project involving dataset selection, labeling, training, and evaluation for smoking behavior detection in public CCTV environments | YOLOv5 · AIHub · Roboflow · Data Labeling |
-| MindHub | Mental healthcare platform that transforms symptom records into AI-assisted clinical summaries | React · Supabase · LLM |
-| Trading Bot | Raspberry Pi-based cryptocurrency paper trading engine using RSI strategies | Python · Binance API · RSI |
-| Space Logistics Research | Research and presentation on Earth–Moon–Mars logistics networks and future space transportation systems (Academic Festival Award) | Research · Planning |
+| RePET Vision | PET bottle classification for recycling efficiency (Gangwon AI Idea Competition, Team Leader) | YOLOv8n · Roboflow · mAP@0.5 91% |
+| K2J – Smoking Detection | Smoking-behavior detection in public CCTV settings — dataset selection, labeling, training, evaluation | YOLOv5 · AIHub · Roboflow |
+| Space Logistics Research | Earth–Moon–Mars logistics networks & future space transportation systems (Academic Festival Award) | Research · Planning |
+| Trading Bot | Raspberry Pi-based cryptocurrency paper-trading engine using RSI strategies | Python · Binance API · RSI |
 
 ---
 
