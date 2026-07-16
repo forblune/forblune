@@ -18,7 +18,7 @@ AI-assisted mental health **record & pre-visit summary** platform.
 Patients chat naturally outside the clinic; MindHub organizes sleep · mood · medication · stressor signals and, within the patient's chosen sharing scope, delivers a pre-visit summary to the doctor. A **record / summary / relay** tool that supports clinical judgment — not diagnosis or treatment. (demo / virtual-patient data)
 `HTML · JS · Supabase (Auth/RLS) · Render AI proxy`
 
-### [MindHub Psych EMR](https://github.com/forblune/mindhub-psych-emr) · [Live Demo](https://forblune.github.io/mindhub-psych-emr/)
+### MindHub Psych EMR — Private source (internal prototype)
 React-based psychiatry EMR prototype connected to MindHub clinical summaries.
 Appointments · ward · billing · medication inventory · clinical notes · scales, with role-based Supabase RLS. (virtual-data prototype)
 `React · Vite · Supabase`
