@@ -4,11 +4,11 @@
 
 # 👋 Hi, I'm Geonhee Kim
 
-**I build AI-assisted systems end to end — from healthcare records to trading pipelines to the personal operating system that runs my own work.**
+**I build bilingual web, AI, and operations systems end to end — from discovery and implementation to responsive QA and delivery.**
 
 Air transportation & logistics student. From planning and research to development and operation, I enjoy carrying a project through the whole loop: research → build → operate → improve.
 
-📝 [Blog](https://blog.naver.com/forblueblog) · 📫 rjsgml13486@gmail.com
+🌐 [Portfolio](https://forblune.github.io/) · 📝 [Blog](https://blog.naver.com/forblueblog) · 📫 geonhee@forblune.com
 
 ---
 
@@ -16,11 +16,23 @@ Air transportation & logistics student. From planning and research to developmen
 
 - **MindHub** — an AI-assisted mental health **record & pre-visit summary** platform (patient app + psychiatry EMR). A record / summary / relay tool that supports clinical judgment — not diagnosis or treatment.
 - **Personal OS** — a private personal AI and project operations system combining governance, local agents, project tracking, knowledge management, and approval workflows. Public concept & philosophy: [forblune-os](https://github.com/forblune/forblune-os)
-- **Forblune Web Studio** — a small web studio in the making: landing pages, small-business sites, and site improvements for solo owners. Currently in service-design stage — no shipped client work yet, and I'd rather say that plainly.
+- **Forblune Web & Operations Studio** — responsive website improvements, bilingual business tools, CRM and ERP workflow demos for small teams. Public examples are self-initiated portfolio projects; they are not presented as paid client work.
 
 ---
 
 ## 🚀 Featured systems
+
+### [ServiceOS Mini ERP](https://github.com/forblune/serviceos-mini-erp) · [Live Demo](https://forblune.github.io/serviceos-mini-erp/)
+A bilingual service-business ERP demo connecting quote → project → billing and collection → revision/defect triage → audit history. Includes owner, operations, and finance views, CSV export, and local-only quote drafts. All customers and transactions are fictional demo data.
+`React · TypeScript · Vite · Responsive UI · GitHub Pages`
+
+### [ClientFlow CRM](https://github.com/forblune/forblune-clientflow) · [Live Demo](https://forblune.github.io/forblune-clientflow/)
+A bilingual lead and proposal pipeline for small service teams: inquiry → qualification → proposal → negotiation → won. Search, filters, board/list views, lead detail, and next-stage actions run entirely on fictional browser-local data.
+`React · TypeScript · Vite · Responsive UI`
+
+### [OpsFlow](https://github.com/forblune/forblune-opsflow) · [Live Demo](https://forblune-opsflow.rjsgml13486.chatgpt.site)
+A bilingual CSV validation and KPI reporting workflow that turns scattered operating data into a decision-ready report. Built as a demand-led portfolio project for dashboard, data-cleaning, and reporting work.
+`React · TypeScript · CSV QA · Responsive dashboard`
 
 ### [MindHub](https://github.com/forblune/mindhub-mvp) · [Live Demo](https://mindhub.forblune.com)
 Patients chat naturally outside the clinic; MindHub organizes sleep · mood · medication · stressor signals and, within the patient's chosen sharing scope, delivers a pre-visit summary to the doctor. Supports clinical judgment — not diagnosis or treatment. (demo / virtual-patient data)
@@ -53,6 +65,7 @@ A **PAPER-only** cryptocurrency trading pipeline (collect → signal → risk �
 ## 🛠️ Skills in applied context
 
 - **Healthcare product (MindHub)** — HTML/JS · React · Supabase Auth/RLS · Kakao login · Render deployments
+- **Business systems (ServiceOS, ClientFlow, OpsFlow)** — bilingual React/TypeScript · responsive dashboards · workflow modeling · CSV reporting · role-aware UI
 - **Trading & operations (Tradebot, Personal OS)** — Python · asyncio · SQLite · Docker · Raspberry Pi
 - **Computer vision (competitions)** — YOLOv5/v8 · OpenCV · Roboflow · Google Colab · data labeling
 - **Everyday tools** — Git · GitHub · VS Code · AI-assisted development workflows
@@ -70,14 +83,14 @@ A **PAPER-only** cryptocurrency trading pipeline (collect → signal → risk �
 
 ---
 
-## 🧰 Forblune Web Studio
+## 🧰 Forblune Web & Operations Studio
 
-Landing pages, small-business websites, and website improvements for solo owners and small teams — service design in progress, built on the same honest-status principles as everything above. Interested in working together when it opens? Email me.
+Responsive website fixes, bilingual landing pages, small-business CRM/ERP dashboards, and AI-assisted prototypes for solo owners and small teams. I publish verifiable demos and label fictional data, private source, and unmeasured results plainly.
 
 ---
 
 ## 📫 Contact
 
-📫 rjsgml13486@gmail.com · 📝 [Blog](https://blog.naver.com/forblueblog)
+📫 geonhee@forblune.com · 🌐 [Portfolio](https://forblune.github.io/) · 📝 [Blog](https://blog.naver.com/forblueblog)
 
 > Interested in the intersection of AI, aviation, logistics, drones, and future space transportation systems.
