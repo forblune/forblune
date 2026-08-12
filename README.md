@@ -4,11 +4,24 @@
 
 # 👋 Hi, I'm Geonhee Kim
 
-**I build bilingual web, AI, and operations systems end to end — from discovery and implementation to responsive QA and delivery.**
+**I fix and build bilingual websites, responsive interfaces, and small-business operations tools — from discovery and implementation to QA and delivery.**
 
 Air transportation & logistics student. From planning and research to development and operation, I enjoy carrying a project through the whole loop: research → build → operate → improve.
 
-🌐 [Portfolio](https://forblune.github.io/) · 📝 [Blog](https://blog.naver.com/forblueblog) · 📫 geonhee@forblune.com
+🌐 [Portfolio](https://portfolio.forblune.com) · 🧰 [Services](https://webcare.forblune.com) · 📝 [Blog](https://blog.naver.com/forblueblog) · 📫 geonhee@forblune.com
+
+---
+
+## ✅ Work I can take on
+
+- Responsive HTML/CSS and React interface fixes
+- Mobile overflow, broken layouts, forms, links, and small JavaScript defects
+- Bilingual Korean/English landing pages and business websites
+- Small CRM/ERP dashboards, CSV cleanup, reporting, and workflow prototypes
+
+I prefer clearly scoped remote projects with verifiable deliverables. Each public demo uses fictional or sanitized data, and paid client work is never implied where it does not exist.
+
+**See working examples:** [Portfolio](https://portfolio.forblune.com) · [OpsFlow](https://opsflow.forblune.com) · [ClientFlow](https://clientflow.forblune.com) · [ServiceOS](https://serviceos.forblune.com)
 
 ---
 
@@ -22,15 +35,15 @@ Air transportation & logistics student. From planning and research to developmen
 
 ## 🚀 Featured systems
 
-### [ServiceOS Mini ERP](https://github.com/forblune/serviceos-mini-erp) · [Live Demo](https://forblune.github.io/serviceos-mini-erp/)
+### [ServiceOS Mini ERP](https://github.com/forblune/serviceos-mini-erp) · [Live Demo](https://serviceos.forblune.com)
 A bilingual service-business ERP demo connecting quote → project → billing and collection → revision/defect triage → audit history. Includes owner, operations, and finance views, CSV export, and local-only quote drafts. All customers and transactions are fictional demo data.
 `React · TypeScript · Vite · Responsive UI · GitHub Pages`
 
-### [ClientFlow CRM](https://github.com/forblune/forblune-clientflow) · [Live Demo](https://forblune.github.io/forblune-clientflow/)
+### [ClientFlow CRM](https://github.com/forblune/forblune-clientflow) · [Live Demo](https://clientflow.forblune.com)
 A bilingual lead and proposal pipeline for small service teams: inquiry → qualification → proposal → negotiation → won. Search, filters, board/list views, lead detail, and next-stage actions run entirely on fictional browser-local data.
 `React · TypeScript · Vite · Responsive UI`
 
-### [OpsFlow](https://github.com/forblune/forblune-opsflow) · [Live Demo](https://forblune-opsflow.rjsgml13486.chatgpt.site)
+### [OpsFlow](https://github.com/forblune/forblune-opsflow) · [Live Demo](https://opsflow.forblune.com)
 A bilingual CSV validation and KPI reporting workflow that turns scattered operating data into a decision-ready report. Built as a demand-led portfolio project for dashboard, data-cleaning, and reporting work.
 `React · TypeScript · CSV QA · Responsive dashboard`
 
@@ -91,6 +104,6 @@ Responsive website fixes, bilingual landing pages, small-business CRM/ERP dashbo
 
 ## 📫 Contact
 
-📫 geonhee@forblune.com · 🌐 [Portfolio](https://forblune.github.io/) · 📝 [Blog](https://blog.naver.com/forblueblog)
+📫 geonhee@forblune.com · 🌐 [Portfolio](https://portfolio.forblune.com) · 🧰 [Services](https://webcare.forblune.com) · 📝 [Blog](https://blog.naver.com/forblueblog)
 
 > Interested in the intersection of AI, aviation, logistics, drones, and future space transportation systems.
