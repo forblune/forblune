@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Geonhee Kim — building AI-assisted systems end to end: healthcare records, trading pipelines, and a personal operating system" width="100%" />
+  <img src="assets/hero.svg" alt="Geonhee Kim at Forblune — bilingual web, AI, and operations systems from discovery through QA and delivery" width="100%" />
 </p>
 
 # 👋 Hi, I'm Geonhee Kim

@@ -1,31 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="830" height="176" viewBox="0 0 830 176" role="img" aria-label="Geonhee Kim — bilingual web, AI, and operations systems">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f2436"/>
-      <stop offset="0.55" stop-color="#123a4c"/>
-      <stop offset="1" stop-color="#0d5c56"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#5eead4" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#5eead4"/>
-      <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="830" height="176" rx="14" fill="url(#bg)"/>
-  <!-- subtle system-node motif (theme-independent colors) -->
-  <g stroke="#2dd4bf" stroke-opacity="0.35" fill="none" stroke-width="1.2">
-    <path d="M600 44 L648 70 L648 118 L600 144 L552 118 L552 70 Z"/>
-    <path d="M672 62 L708 82 L708 118 L672 138 L636 118 L636 82 Z" stroke-opacity="0.22"/>
-    <path d="M744 48 L776 66 L776 102 L744 120 L712 102 L712 66 Z" stroke-opacity="0.14"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="176" viewBox="0 0 830 176" role="img" aria-label="Geonhee Kim at Forblune — bilingual web, AI, and operations systems">
+  <rect width="830" height="176" rx="14" fill="#101828"/>
+  <path d="M535 0H830V176H505C554 127 569 67 535 0Z" fill="#131A2A"/>
+  <circle cx="714" cy="88" r="116" fill="none" stroke="#3157D5" stroke-opacity=".20"/>
+  <circle cx="714" cy="88" r="78" fill="none" stroke="#7B95FF" stroke-opacity=".14"/>
+  <text x="40" y="32" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#7B95FF">FORBLUNE · WEB · AI · SYSTEMS · QA</text>
+  <text x="40" y="78" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#FFFFFF">Geonhee Kim</text>
+  <text x="40" y="112" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">Bilingual web, AI, and operations systems —</text>
+  <text x="40" y="136" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#AEB8CD">from discovery and implementation to responsive QA and delivery</text>
+  <rect x="40" y="153" width="328" height="2" fill="#3157D5"/>
+  <g transform="translate(620 32) scale(.22)">
+    <path d="M64 416V224A146 146 0 0 1 356 224V416H284V224A74 74 0 0 0 136 224V416Z" fill="#FFFFFF"/>
+    <path d="M284 416V224A146 146 0 0 1 576 224V416H504V224A74 74 0 0 0 356 224V416Z" fill="#7B95FF"/>
   </g>
-  <g fill="#5eead4">
-    <circle cx="600" cy="44" r="3" fill-opacity="0.9"/>
-    <circle cx="648" cy="118" r="3" fill-opacity="0.6"/>
-    <circle cx="708" cy="82" r="3" fill-opacity="0.45"/>
-    <circle cx="744" cy="120" r="3" fill-opacity="0.3"/>
-  </g>
-  <text x="40" y="76" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#f0fdfa">Geonhee Kim</text>
-  <text x="40" y="112" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#ccfbf1">Bilingual web, AI, and operations systems —</text>
-  <text x="40" y="136" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#ccfbf1">from discovery and implementation to responsive QA and delivery</text>
-  <rect x="40" y="152" width="330" height="2" fill="url(#line)"/>
 </svg>
