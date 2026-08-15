@@ -1,109 +1,57 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Geonhee Kim at Forblune — bilingual web, AI, and operations systems from discovery through QA and delivery" width="100%" />
-</p>
+# Geonhee Kim / Forblune
 
-# 👋 Hi, I'm Geonhee Kim
+I build and repair responsive websites, bilingual landing pages, and small operations tools. I prefer fixed-scope remote work with a result that can be checked in a browser.
 
-**I fix and build bilingual websites, responsive interfaces, and small-business operations tools — from discovery and implementation to QA and delivery.**
+[Portfolio](https://portfolio.forblune.com) · [Web Care service](https://webcare.forblune.com) · [Email](mailto:geonhee@forblune.com)
 
-Air transportation & logistics student. From planning and research to development and operation, I enjoy carrying a project through the whole loop: research → build → operate → improve.
+## Work I can take on
 
-🌐 [Portfolio](https://portfolio.forblune.com) · 🧰 [Services](https://webcare.forblune.com) · 📝 [Blog](https://blog.naver.com/forblueblog) · 📫 geonhee@forblune.com
-
----
-
-## ✅ Work I can take on
-
-- Responsive HTML/CSS and React interface fixes
 - Mobile overflow, broken layouts, forms, links, and small JavaScript defects
-- Bilingual Korean/English landing pages and business websites
-- Small CRM/ERP dashboards, CSV cleanup, reporting, and workflow prototypes
+- Responsive HTML/CSS and React interface improvements
+- Korean/English landing pages and business websites
+- Small CRM/ERP dashboards, CSV cleanup, and reporting workflows
+- Browser QA with a written reproduction path and before/after evidence
 
-I prefer clearly scoped remote projects with verifiable deliverables. Each public demo uses fictional or sanitized data, and paid client work is never implied where it does not exist.
+## How I work
 
-**See working examples:** [Portfolio](https://portfolio.forblune.com) · [OpsFlow](https://opsflow.forblune.com) · [ClientFlow](https://clientflow.forblune.com) · [ServiceOS](https://serviceos.forblune.com)
+1. Reproduce the problem or define the deliverable.
+2. Agree on the smallest useful scope.
+3. Implement without hiding unrelated changes inside the job.
+4. Check desktop, tablet, mobile, and the relevant interaction states.
+5. Deliver the files, verification notes, and any remaining limitations.
 
----
+## Working examples
 
-## 🔭 What I'm building now
+| Project | What you can verify | Boundary |
+|---|---|---|
+| [Web Care](https://webcare.forblune.com) | Responsive service page, bilingual routes, inquiry flow | Forblune service site |
+| [OpsFlow](https://opsflow.forblune.com) | CSV import, validation rules, KPI views, clean CSV export | Self-initiated demo; fictional data |
+| [ClientFlow](https://clientflow.forblune.com) | Search, pipeline stages, lead detail, next actions | Self-initiated demo; fictional data |
+| [ServiceOS](https://serviceos.forblune.com) | Quote, project, billing, issue, and audit views | Self-initiated demo; fictional data |
+| [MindHub](https://mindhub.forblune.com) | Patient record flow and pre-visit summary concept | Prototype; virtual-patient data; not diagnosis |
+| [Dev Cockpit](https://forblune.github.io/forblune-dev-cockpit-demo/) | Mission, next action, agent, and infrastructure states | Public demo separated from private operations |
 
-- **MindHub** — an AI-assisted mental health **record & pre-visit summary** platform (patient app + psychiatry EMR). A record / summary / relay tool that supports clinical judgment — not diagnosis or treatment.
-- **Personal OS** — a private personal AI and project operations system combining governance, local agents, project tracking, knowledge management, and approval workflows. Public concept & philosophy: [forblune-os](https://github.com/forblune/forblune-os)
-- **Forblune Web & Operations Studio** — responsive website improvements, bilingual business tools, CRM and ERP workflow demos for small teams. Public examples are self-initiated portfolio projects; they are not presented as paid client work.
+The repositories and demos label fictional data, private source, and unmeasured outcomes directly. I do not present a self-initiated build as paid client work.
 
----
+## Current focus
 
-## 🚀 Featured systems
+- Forblune Web Care: small, verifiable website fixes and responsive QA
+- Bilingual web delivery for Korean and international clients
+- Lightweight operations tools for solo owners and small teams
+- MindHub: a record and pre-visit-summary prototype that supports, but does not replace, clinical judgment
 
-### [ServiceOS Mini ERP](https://github.com/forblune/serviceos-mini-erp) · [Live Demo](https://serviceos.forblune.com)
-A bilingual service-business ERP demo connecting quote → project → billing and collection → revision/defect triage → audit history. Includes owner, operations, and finance views, CSV export, and local-only quote drafts. All customers and transactions are fictional demo data.
-`React · TypeScript · Vite · Responsive UI · GitHub Pages`
+## Background
 
-### [ClientFlow CRM](https://github.com/forblune/forblune-clientflow) · [Live Demo](https://clientflow.forblune.com)
-A bilingual lead and proposal pipeline for small service teams: inquiry → qualification → proposal → negotiation → won. Search, filters, board/list views, lead detail, and next-stage actions run entirely on fictional browser-local data.
-`React · TypeScript · Vite · Responsive UI`
+- Air transportation and logistics student
+- FPV drone building, soldering, assembly, and PID tuning
+- Computer-vision project experience with YOLOv5/v8, OpenCV, Roboflow, and data labeling
+- Online retail operations experience across smart-store and open-market channels
+- Team-lead experience in a generative-AI chatbot bootcamp
 
-### [OpsFlow](https://github.com/forblune/forblune-opsflow) · [Live Demo](https://opsflow.forblune.com)
-A bilingual CSV validation and KPI reporting workflow that turns scattered operating data into a decision-ready report. Built as a demand-led portfolio project for dashboard, data-cleaning, and reporting work.
-`React · TypeScript · CSV QA · Responsive dashboard`
+Some awards and competition metrics were produced in their original course or competition settings. Where a result has not been independently verified, the related repository or case note says so.
 
-### [MindHub](https://github.com/forblune/mindhub-mvp) · [Live Demo](https://mindhub.forblune.com)
-Patients chat naturally outside the clinic; MindHub organizes sleep · mood · medication · stressor signals and, within the patient's chosen sharing scope, delivers a pre-visit summary to the doctor. Supports clinical judgment — not diagnosis or treatment. (demo / virtual-patient data)
-`HTML · JS · Supabase (Auth/RLS) · Render AI proxy`
+## Contact
 
-**MindHub Psych EMR — private source (internal prototype).** React-based psychiatry EMR connected to MindHub clinical summaries: appointments · ward · billing · medication inventory · clinical notes · scales, with role-based Supabase RLS. (virtual-data prototype)
-`React · Vite · Supabase`
+geonhee@forblune.com
 
-### [Dev Cockpit — public demo](https://github.com/forblune/forblune-dev-cockpit-demo) · [Live Demo](https://forblune.github.io/forblune-dev-cockpit-demo/)
-An always-on personal dev command center: current mission, next action, agents, and infra health in one glance instead of five tabs. The public demo runs on demo data only; the operational cockpit is a separate private project.
-`React · TypeScript · Vite · PWA`
-
-### Tradebot — private source
-A **PAPER-only** cryptocurrency trading pipeline (collect → signal → risk → simulated fills → live dashboard) running 24/7 on a Raspberry Pi. Live trading is intentionally not implemented — safety gates over profit claims.
-`Python · asyncio · SQLite · Docker`
-
----
-
-## 🧪 Selected projects
-
-| Project | Description | Stack |
-|----------|-------------|--------|
-| RePET Vision | PET bottle classification for recycling efficiency (Gangwon AI Idea Competition, team leader) — mAP@0.5 91% (self-reported, competition setting) | YOLOv8n · Roboflow |
-| K2J – Smoking Detection | Smoking-behavior detection in public CCTV settings — dataset selection, labeling, training, evaluation | YOLOv5 · AIHub · Roboflow |
-| Space Logistics Research | Earth–Moon–Mars logistics networks & future space transportation systems | Research · Planning |
-| rest04 — GrowthPath Academy | Online video education platform built during a company training course (React + Supabase, Kakao login, AI chat widget) | React · Vite · Supabase |
-
----
-
-## 🛠️ Skills in applied context
-
-- **Healthcare product (MindHub)** — HTML/JS · React · Supabase Auth/RLS · Kakao login · Render deployments
-- **Business systems (ServiceOS, ClientFlow, OpsFlow)** — bilingual React/TypeScript · responsive dashboards · workflow modeling · CSV reporting · role-aware UI
-- **Trading & operations (Tradebot, Personal OS)** — Python · asyncio · SQLite · Docker · Raspberry Pi
-- **Computer vision (competitions)** — YOLOv5/v8 · OpenCV · Roboflow · Google Colab · data labeling
-- **Everyday tools** — Git · GitHub · VS Code · AI-assisted development workflows
-
----
-
-## 🏆 Research · awards · background
-
-- 🥇 1st Place, Generative AI Chatbot Bootcamp (team leader)
-- 🥉 Encouragement Award, Global Entrepreneurship & Trade School
-- 🥉 Encouragement Award, University Academic Festival (space logistics research)
-- 📜 Certified Online Professional Seller Level 2 (G&G Commerce, 2024) — operated smart-store and open-market businesses with approximately 1,700 listed products
-- 🛸 Built and tuned FPV racing drones since elementary school — soldering, assembly, PID tuning
-- 🙋 University student council · high-school science club · science gifted education program
-
----
-
-## 🧰 Forblune Web & Operations Studio
-
-Responsive website fixes, bilingual landing pages, small-business CRM/ERP dashboards, and AI-assisted prototypes for solo owners and small teams. I publish verifiable demos and label fictional data, private source, and unmeasured results plainly.
-
----
-
-## 📫 Contact
-
-📫 geonhee@forblune.com · 🌐 [Portfolio](https://portfolio.forblune.com) · 🧰 [Services](https://webcare.forblune.com) · 📝 [Blog](https://blog.naver.com/forblueblog)
-
-> Interested in the intersection of AI, aviation, logistics, drones, and future space transportation systems.
+[portfolio.forblune.com](https://portfolio.forblune.com) · [webcare.forblune.com](https://webcare.forblune.com)
