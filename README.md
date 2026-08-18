@@ -6,6 +6,13 @@ I build and repair responsive websites, bilingual landing pages, and small opera
 
 > 한국어 소개는 이 페이지 맨 아래 **[한국어 소개](#한국어-소개)** 를 펼쳐 보세요.
 
+### → [What problems I actually solve](https://github.com/forblune/forblune-portfolio/blob/codex/anti-ai-portfolio/docs/PROBLEMS_I_SOLVE.md)
+
+Seven cases from sites in production, with measured numbers — a contact form that
+returned `405` for four hours while the page looked fine, 243 external image
+hotlinks reduced to 0, a live site whose source matched **none** of 8 local copies.
+Two of the seven were my own mistakes. Found, diagnosed, fixed, and documented.
+
 ## Work I can take on
 
 - Mobile overflow, broken layouts, forms, links, and small JavaScript defects
@@ -150,6 +157,14 @@ Built to let a client pick a direction before a project starts, by comparing wor
 <br>
 
 반응형 웹사이트를 만들고 고칩니다. 한국어·영어 랜딩페이지와 1인 사업자용 소규모 운영 도구도 함께 다룹니다. 범위를 먼저 정하고, 브라우저에서 확인 가능한 결과로 끝내는 원격 작업을 선호합니다.
+
+#### → [제가 해결하는 문제](https://github.com/forblune/forblune-portfolio/blob/codex/anti-ai-portfolio/docs/PROBLEMS_I_SOLVE.md)
+
+무엇을 만들었는지가 아니라 **어떤 문제가 없어지는지**로 정리한 문서입니다.
+운영 중인 사이트에서 나온 7개 사례이고 숫자는 전부 실측입니다 — 화면은 멀쩡한데
+문의 API가 4시간 동안 `405`를 돌려주던 일, 외부 이미지 핫링크 243건을 0건으로,
+로컬 사본 8곳 중 라이브와 일치하는 것이 **하나도 없던** 상태.
+7개 중 2개는 제가 만든 사고입니다. 찾아내고 원인을 규명하고 재발을 막고 기록했습니다.
 
 ### 맡을 수 있는 일
 
