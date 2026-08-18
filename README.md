@@ -6,7 +6,7 @@ I build and repair responsive websites, bilingual landing pages, and small opera
 
 > 한국어 소개는 이 페이지 맨 아래 **[한국어 소개](#한국어-소개)** 를 펼쳐 보세요.
 
-### → [What problems I actually solve](https://github.com/forblune/forblune-portfolio/blob/codex/anti-ai-portfolio/docs/PROBLEMS_I_SOLVE.md)
+### → [What problems I actually solve](docs/PROBLEMS_I_SOLVE.md)
 
 Seven cases from sites in production, with measured numbers — a contact form that
 returned `405` for four hours while the page looked fine, 243 external image
@@ -158,7 +158,7 @@ Built to let a client pick a direction before a project starts, by comparing wor
 
 반응형 웹사이트를 만들고 고칩니다. 한국어·영어 랜딩페이지와 1인 사업자용 소규모 운영 도구도 함께 다룹니다. 범위를 먼저 정하고, 브라우저에서 확인 가능한 결과로 끝내는 원격 작업을 선호합니다.
 
-#### → [제가 해결하는 문제](https://github.com/forblune/forblune-portfolio/blob/codex/anti-ai-portfolio/docs/PROBLEMS_I_SOLVE.md)
+#### → [제가 해결하는 문제](docs/PROBLEMS_I_SOLVE.md)
 
 무엇을 만들었는지가 아니라 **어떤 문제가 없어지는지**로 정리한 문서입니다.
 운영 중인 사이트에서 나온 7개 사례이고 숫자는 전부 실측입니다 — 화면은 멀쩡한데
