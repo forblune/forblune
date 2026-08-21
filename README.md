@@ -2,7 +2,7 @@
 
 I build and repair responsive websites, bilingual landing pages, and small operations tools. I prefer fixed-scope remote work with a result that can be checked in a browser.
 
-[Portfolio](https://portfolio.forblune.com) · [Web Care service](https://webcare.forblune.com) · [Style Gallery](https://gallery.forblune.com) · [Email](mailto:geonhee@forblune.com)
+[Portfolio](https://forblune.github.io) · [Résumé (PDF)](https://forblune.github.io/resume.pdf) · [Web studio](https://studio.forblune.com) · [Web Care service](https://webcare.forblune.com) · [Style Gallery](https://gallery.forblune.com) · [Email](mailto:geonhee@forblune.com)
 
 > 한국어 소개는 이 페이지 맨 아래 **[한국어 소개](#한국어-소개)** 를 펼쳐 보세요.
 
@@ -157,6 +157,8 @@ Built to let a client pick a direction before a project starts, by comparing wor
 <br>
 
 반응형 웹사이트를 만들고 고칩니다. 한국어·영어 랜딩페이지와 1인 사업자용 소규모 운영 도구도 함께 다룹니다. 범위를 먼저 정하고, 브라우저에서 확인 가능한 결과로 끝내는 원격 작업을 선호합니다.
+
+[개인 포트폴리오](https://forblune.github.io) · [이력서 PDF](https://forblune.github.io/resume.pdf) · [웹 스튜디오](https://studio.forblune.com) · [Web Care](https://webcare.forblune.com) · [Style Gallery](https://gallery.forblune.com) · [이메일](mailto:geonhee@forblune.com)
 
 #### → [제가 해결하는 문제](docs/PROBLEMS_I_SOLVE.md)
 
